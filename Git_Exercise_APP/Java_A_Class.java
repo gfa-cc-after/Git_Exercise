@@ -7,6 +7,6 @@ public class Java_A_Class {
          System.out.println(30);
     }
     public void print() {
-       System.out.println("Hello People");
+       System.out.println("Hello People asdadadas");
     }
 }
