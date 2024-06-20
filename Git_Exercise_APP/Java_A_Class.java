@@ -10,4 +10,8 @@ public class Java_A_Class {
        System.out.println("Hello People");
         System.out.println("I like your cut G.");
     }
+
+    public void greet() {
+        System.out.println("this is the greet");
+    }
 }
