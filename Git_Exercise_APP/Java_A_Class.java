@@ -9,4 +9,8 @@ public class Java_A_Class {
     public void print() {
        System.out.println("Hello People asdadadas");
     }
+
+    public void greet() {
+        System.out.println("this is the greet");
+    }
 }
