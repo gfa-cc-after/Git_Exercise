@@ -2,4 +2,8 @@ public class Java_A_Class {
    public static void main(String[] args) {
        System.out.println("Hello World");
    }
+
+    public void count() {
+         System.out.println(35);
+    }
 }
