@@ -3,8 +3,8 @@ public class Java_A_Class {
        System.out.println("Hello World");
    }
 
-    public void count() {
-         System.out.println(30);
+    public void count(int a, int b) {
+         System.out.println(a+b);
     }
     public void print() {
        System.out.println("Hello People asdadadas");
