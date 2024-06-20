@@ -8,6 +8,6 @@ public class Java_A_Class {
     }
     public void print() {
        System.out.println("Hello People");
-        System.out.println("no im not");
+        System.out.println("I like your cut G.");
     }
 }
