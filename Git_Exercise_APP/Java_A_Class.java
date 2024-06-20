@@ -4,7 +4,7 @@ public class Java_A_Class {
    }
 
     public void count() {
-         System.out.println(35);
+         System.out.println(30);
     }
     public void print() {
        System.out.println("Hello People");
